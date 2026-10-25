@@ -28,7 +28,6 @@ Open <http://127.0.0.1:8000/> on the same device. Stop the preview server with C
 3. Upload the files **inside this folder** to the repository root. `index.html` and `styles.css` must be beside each other at the root, not nested inside a `github_homepage/` folder. Commit the upload to `main`.
 4. Open **Settings → Pages → Build and deployment**. Choose **Deploy from a branch**, select **main** and **/(root)**, then save.
 5. Check the deployment result in GitHub's **Actions** tab. Publication can take up to 10 minutes.
-6. Open <https://wangzz887412-code.github.io/> yourself, follow the navigation links, check the layout on a narrow screen, and confirm the introduction is what you want to make public.
 
 Repository address after creation: <https://github.com/wangzz887412-code/wangzz887412-code.github.io>
 
